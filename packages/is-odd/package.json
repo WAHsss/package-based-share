@@ -1,0 +1,7 @@
+{
+  "name": "@xylink/is-odd",
+  "version": "0.0.1",
+  "dependencies": {
+    "@xylink/is-even": "*"
+  }
+}

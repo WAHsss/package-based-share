@@ -1,0 +1,24 @@
+{
+  "compileOnSave": false,
+  "compilerOptions": {
+    "rootDir": ".",
+    "sourceMap": true,
+    "declaration": false,
+    "moduleResolution": "node",
+    "emitDecoratorMetadata": true,
+    "experimentalDecorators": true,
+    "importHelpers": true,
+    "target": "es2015",
+    "module": "esnext",
+    "lib": ["es2020", "dom"],
+    "skipLibCheck": true,
+    "skipDefaultLibCheck": true,
+    "baseUrl": ".",
+    "paths": {
+      "@xylink/is-even": ["packages/is-even/src/index.ts"],
+      "@xylink/is-odd": ["packages/is-odd/src/index.ts"],
+      "react-base-story": ["packages/react-base-story/src/index.ts"]
+    }
+  },
+  "exclude": ["node_modules", "tmp"]
+}
