@@ -10,6 +10,7 @@
     "@babel/preset-react": "^7.14.5",
     "@commitlint/cli": "^17.6.5",
     "@commitlint/config-conventional": "^17.6.5",
+    "@commitlint/config-lerna-scopes": "^17.6.3",
     "@commitlint/config-nx-scopes": "^17.6.4",
     "@nx/cypress": "16.4.0-beta.7",
     "@nx/eslint-plugin": "16.4.0-beta.7",
