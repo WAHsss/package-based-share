@@ -16,7 +16,7 @@ export function BaseFunction(props: {text:string;judge:(v:number)=>boolean}){
           if(props.judge(Number(data))) {
             alert(props.text);
           }else{
-            alert("不" + props.text);
+            alert("is no" + props.text);
           }
          }}>点我</Button>
       </Space>
