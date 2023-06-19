@@ -6,7 +6,8 @@
   ],
   "command": {
     "publish": {
-      "directory": "{workspaceRoot}/dist/{projectRoot}"
+      "directory": "{workspaceRoot}/dist/{projectRoot}",
+      "registry": "http://localhost:4873"
     }
   }
 }

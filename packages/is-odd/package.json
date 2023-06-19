@@ -1,8 +1,8 @@
 {
   "name": "@xylink/is-odd",
-  "version": "0.0.2-alpha.0",
+  "version": "0.0.2",
   "dependencies": {
-    "@xylink/is-even": "^0.0.2-alpha.0"
+    "@xylink/is-even": "^0.0.2"
   },
   "publishConfig": {
     "registry": "http://localhost:4873"

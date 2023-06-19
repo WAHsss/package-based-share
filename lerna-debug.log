@@ -1,8 +1,8 @@
-40 error Error: Command failed with exit code 1: git commit -F /private/var/folders/4_/zk97bl_52ljdkzv312yrg3140000gn/T/bdd4623c-2deb-4b07-831b-e6db09fa1c0b/lerna-commit.txt
+40 error Error: Command failed with exit code 1: git commit -F /private/var/folders/4_/zk97bl_52ljdkzv312yrg3140000gn/T/a1d25a7d-db5c-4746-b4d0-9d2cb2790e18/lerna-commit.txt
 40 error ⧗   input: Publish
 40 error
-40 error  - @xylink/is-even@0.0.2-alpha.0
-40 error  - @xylink/is-odd@0.0.2-alpha.0
+40 error  - @xylink/is-even@0.0.2
+40 error  - @xylink/is-odd@0.0.2
 40 error ✖   subject may not be empty [subject-empty]
 40 error ✖   type may not be empty [type-empty]
 40 error
