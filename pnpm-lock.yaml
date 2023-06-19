@@ -224,7 +224,7 @@ importers:
   packages/is-odd:
     dependencies:
       '@xylink/is-even':
-        specifier: ^0.0.2-alpha.0
+        specifier: ^0.0.2
         version: link:../is-even
 
   packages/react-base-story: {}
